@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bhoomikagithu
+- 👋 Hi, I’m Bhoomika Sharma
 - 👀 I’m interested in learning coading
-- 🌱 I’m currently pursuing B.Tech course
+- 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering(CSE)
 - 📫 How to reach me bhoomikasharma374@gmail.com
 
 <!---

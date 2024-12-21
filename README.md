@@ -45,7 +45,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">My GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Bhoomikagithu&show_icons=true&locale=en&theme=dark" alt="Bhoomikagithu" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomikagithu&theme=dark" alt="Bhoomikagithu" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhoomikagithu&show_icons=true&theme=dark&locale=en&layout=compact" alt="Bhoomikagithu" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomikagithu&theme=dark" alt="Bhoomikagithu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhoomikagithu&show_icons=true&theme=dark&locale=en&layout=compact" alt="Bhoomikagithu" /></p>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhoomikagithu&bg_color=000000&color=d534cb&line=d534cb&point=289562&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

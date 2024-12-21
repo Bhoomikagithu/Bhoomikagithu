@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/bhoomika-sharma-993505263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhoomika-sharma-993505263" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/bhoomika-sharma-993505263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhoomika-sharma-993505263" height="30" width="40" /></a>
   <a href="https://www.instagram.com/gss_5.7/profilecard/?igsh=NG1mamkxMWI3ZmI=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bhoomika sharma" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/Bhoomika_sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Bhoomika_sharma" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/bhoomikasslku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhoomikasslku" height="30" width="40" /></a>
